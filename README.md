@@ -1,8 +1,6 @@
-Hi,
-
 Thanks for taking the time out to take a look at my work :-)
 
-This is a repository that holds all the files of a POC for an Insurance Risk model. The model decides whether a policy is too risky to accept.
+This repo holds all the files of a POC for an Insurance Risk model. The model decides whether a policy is too risky to accept.
 
 There are many different parts of the POC:
 
@@ -29,6 +27,4 @@ Obviously a full production system needs a lot more than this, but this is the f
 ### Folders:
 The data, media, and models folders hold just that. Data, media and pickled models. (There is nothing really interesting in these, they can be ignored.)
 
-If you have any questions at all feel free to reach out,
-
-Tuvia
+Enjoy!
